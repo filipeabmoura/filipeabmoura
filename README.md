@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Filipe Moura
-### 🌍 Serra, ES
 ### 💻📖 Sistemas de Informação - Ifes
